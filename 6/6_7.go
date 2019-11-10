@@ -12,6 +12,6 @@ func main(){
 	fmt.Println(play)
 	play["C"]=3
 	fmt.Println(play)
-	delete(play,"c")
+	delete(play,"C")
 	fmt.Println(play)
 }
